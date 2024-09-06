@@ -28,6 +28,7 @@ MANIFEST
 *.exe
 *.bat
 *.ps1
+.env
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
