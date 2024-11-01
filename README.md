@@ -33,7 +33,8 @@ Welcome to the **Automation Repository**! This collection of Python scripts and 
 
 3. **Run the Scripts: Each directory contains specific automation scripts. Navigate to a folder and run the main script.**
 
-    **Usage**
+    **Usage** :
+   
     Google-Form: Automates filling Google Forms using fake data.
     Email: Sends customized emails to a list of recipients.
     Excel: Generates and updates Excel files as daily reports.
@@ -41,6 +42,7 @@ Welcome to the **Automation Repository**! This collection of Python scripts and 
     Word: Generates Word documents from structured data.
     Web Scraping: Extracts news headlines and links, saved as a CSV file.
    
-    **Contributing**
+    **Contributing** :
+   
     Feel free to contribute by submitting issues or pull requests. All contributions are welcome!
 
